@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BarcodeBonanza
-- 👀 I’m interested in ... data collection using handheld scanners
+- 👀 I’m interested in ... data collection using <a href="https://www.barcodebonanza.com/dept/bar-code-scanners.jsp">barcode scanners</a>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... barcode applications
 - 📫 How to reach me ... www.barcodebonanza.com
